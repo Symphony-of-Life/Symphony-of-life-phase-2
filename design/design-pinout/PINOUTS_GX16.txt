@@ -1,0 +1,61 @@
+Extender connector TOP behuizing
+BOARD
+
+TX 	(Serial)
+Gr	(Serial)
+V+ x1	(in for board)
+Gr x1	(in for board)
+Data x2	(gecombineerd van 1)
+Gr x2	(gecombineerd van 1)
+
+
+
+
+
+Extender connector TOP behuizing
+CABLE
+
+TX 	(Serial)
+Gr	(Serial)
+V+ x1	(in for board)
+Gr x1	(in for board)
+Data x2	(LED out)
+Gr x2	(LED out)
+
+
+
+
+
+
+Extender connector BOTTOM behuizing
+CABLE
+
+TX	(Serial)
+Gr	(Serial)
+V+ x2	(1 in for board, 1 in for LED power)
+Gr x2	(1 in for board, 1 in for LED GROUND)
+V+ x1	(in for LED power)
+Gr x1	(in for LED GROUND)
+
+
+
+
+
+Power box
+(PSU)
+
+TX	(Serial)
+Gr	(Serial)
+V+ x2	(V+)
+Gr x2	(V-)
+V+ x1	(V+)
+Gr x1	(V-)
+
+
+
+
+
+TEENSY ontvangt serial
+
+TX 	(Serial)
+Gr	(Serial)
