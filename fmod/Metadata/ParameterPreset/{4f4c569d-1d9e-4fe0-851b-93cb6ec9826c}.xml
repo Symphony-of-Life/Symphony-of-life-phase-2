@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4f4c569d-1d9e-4fe0-851b-93cb6ec9826c}">
+		<property name="name">
+			<value>Speaker</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ec27c9fc-057a-40aa-8061-e0c0f5663962}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6cf8ca90-b8df-4600-a659-ab288e571dd2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6cf8ca90-b8df-4600-a659-ab288e571dd2}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Speaker 0</value>
+			<value>Speaker 1</value>
+			<value>Speaker 2</value>
+			<value>Speaker 3</value>
+			<value>Speaker 4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
